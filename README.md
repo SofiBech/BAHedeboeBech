@@ -1,6 +1,8 @@
 # BAHedeboeBech
 
-The Python files for our numerical analysis in our Bachelor's Thesis are stored in this repository. Finalized date: 4th of May 2023.
+The Python files for our numerical analysis in our Bachelor's Thesis are stored in this repository. The scripts can be accessed in 'Files'.
+
+Finalized date: 4th of May 2023.
 
 The 'Steady state values' file is used for our results in Tabel 2 in Appendix. 
 
